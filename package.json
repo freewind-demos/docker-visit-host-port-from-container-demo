@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "server": "http-server . -p 34253"
+  },
+  "devDependencies": {
+    "http-server": "0.12.1"
+  }
+}
